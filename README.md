@@ -15,6 +15,7 @@ class Graph:
 που στη συνεχεια θα επεξεργαστει της διαδρομες η μεθοδος
 ford fulkerson στελνωντας και προσθετωντας την καταλληλη  τιμη της ροης
 αναλογα με την χωρητικοτητα
+### Using BFS as a searching algorithm
 ```
     def searching_algo_BFS(self, s, t, parent):
         visited = [False] * (self.ROW)
