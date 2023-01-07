@@ -5,16 +5,6 @@ what
 
 > blockquote?
 
-## WHAT
-
-' hhuhh? '
-
-# N*gga say WHAT
-
-''' 
-
-import math
-sqrt.math()[
-]
-
+'''
+work you damn it
 '''
