@@ -90,7 +90,9 @@ oσο διανυουμε κομβους στις διαδρομες(οσο εχ�
             while(s != source):
 ```            
 οσο δεν εχουμε φτασει απο το sink στο source
+
 x= self.graph[parent[s]]
+
 y= self.graph[parent[s]][s]
 ```
                 path_flow = min(path_flow, self.graph[parent[s]][s])
