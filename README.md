@@ -7,12 +7,14 @@ what
 
 ## WHAT
 
-'hhuhh?'
+' hhuhh? '
 
 # N*gga say WHAT
 
-'''
+''' 
+
 import math
 sqrt.math()[
 ]
+
 '''
